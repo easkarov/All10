@@ -1,0 +1,5 @@
+PyQt5 == 5.15.1
+PyQt5-sip == 12.8.1
+pyqt5-tools == 5.15.1.1.7.3
+pyqtgraph == 0.11.0
+Pillow == 7.0.0
