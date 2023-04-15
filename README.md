@@ -58,7 +58,7 @@
 +	datetime – получение даты
 +	pyqtgraph – построение графика статистики
 
- ## Интерфейс
+ ## Графический интерфейс
 ![image](https://user-images.githubusercontent.com/74973350/226669051-7127f318-d0c6-4861-90b8-baa3ee85be31.png)
 ![image](https://user-images.githubusercontent.com/74973350/226669071-729b05b4-7965-4cfe-8246-dc4ebf5a5795.png)
 ![image](https://user-images.githubusercontent.com/74973350/226669090-e296d54d-b246-425b-b645-aa6c483c38e3.png)
